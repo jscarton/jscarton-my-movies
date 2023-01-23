@@ -1,0 +1,21 @@
+{
+  "name": "@jscarton/my-movies",
+  "version": "1.0.0",
+  "description": "A React Based Wordpress Plugin to show movies recommendations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Juan Scarton <jscarton@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "react-axios": "^2.0.6",
+    "react-data-table-component": "^7.5.3"
+  }
+}

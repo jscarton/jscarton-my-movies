@@ -1,0 +1,19 @@
+{
+    "name": "jscarton/my-movies",
+    "description": "A React Based Wordpress Plugin to show movies recommendations.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jscarton\\MyMovies\\": "includes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Scarton",
+            "email": "jscarton@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
