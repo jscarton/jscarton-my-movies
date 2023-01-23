@@ -1,4 +1,4 @@
-#JS My Movies
+# JS My Movies
 
 this is a small wordpress plugins which adds a movie list page in the wordpress dashboard
 
